@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* outline: 1px solid red;  */
 }
 
 .container{
@@ -345,17 +344,6 @@ footer {
     width: 300px;
   }
 
-  /* .form-control.me-2 {
-    margin-left: 30px;
-    width: 20vw !important;
-    
-  } */
-
-  /* #cardContainer {
-    width: 100vw;
-    margin-left: -2vw;
-  } */
-
   /*estilos de tarjetas detalles */
 
   #tarjetaDetails{
@@ -409,33 +397,6 @@ height: 20vh !important;
   #boton{
     margin: 10px 200px 20px;
   }
-
-  /* .container-extra {
-    display: flex;
-    flex-direction: row;
-    width: 90vw;
-    margin-top: 4vw;
-    margin-left: 4vw;
-    margin-bottom: 4vw;
-    
-  } */
-
-  /* .image img {
-    margin: 5vh;
-    width: 40%;
-    
-  } */
-
-  /* .title-list {
-    margin-top: 30px;
-    margin-left: -800px;
-    
-  } */
-
-  /* .data-events li {
-    margin-left: -800px;
-    
-  } */
 
   .img-fluid {
     display: flex;

@@ -60,5 +60,6 @@ amazing-events/
 │   │   └── contact.html     # Página de contacto.
 │
 ├── index.html               # Página principal donde se muestra el filtro y los eventos.
+├── index.js                 # Scripts de la pagina principal.
 ├── README.md                # Este archivo.
 

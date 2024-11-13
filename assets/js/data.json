@@ -189,7 +189,7 @@
       {
         "_id": "639c733b992482e5f2834c1d",
         "name": "Latin Food Festival",
-        "image": "https://i.postimg.cc/85yx5xFF/Latin-Food-Festival.jpg",
+        "image": "https://i.postimg.cc/9FxGNyYy/Latin-Food-Festival.jpg",
         "date": "2027-07-20",
         "description": "A vibrant celebration of Latin American cuisine with traditional dishes, live music, and dance performances.",
         "category": "Food Fair",
@@ -202,7 +202,7 @@
       {
         "_id": "639c733b992482e5f2834c1f",
         "name": "Renaissance Art Exhibition",
-        "image": "https://i.postimg.cc/X7D4R9M7/Renaissance-Art-Exhibition.jpg",
+        "image": "https://i.postimg.cc/LXM4V0qv/Renaissance-Art-Exhibition.jpg",
         "date": "2024-05-05",
         "description": "Discover the masterpieces of the Renaissance period, including works from Michelangelo, Leonardo da Vinci, and Raphael.",
         "category": "Museum",
@@ -215,7 +215,7 @@
       {
         "_id": "639c733b992482e5f2834c21",
         "name": "Superhero Costume Bash",
-        "image": "https://i.postimg.cc/tRytSzWL/Superhero-Costume-Bash.jpg",
+        "image": "https://i.postimg.cc/9QrfX95P/Superhero-Costume-Bash.jpg",
         "date": "2020-11-18",
         "description": "Dress as your favorite superhero and join us for an epic costume competition and party.",
         "category": "Costume Party",
@@ -228,7 +228,7 @@
       {
         "_id": "639c733c992482e5f2834c23",
         "name": "Jazz Legends Live",
-        "image": "https://i.postimg.cc/VNT5ZG2X/Jazz-Legends-Live.jpg",
+        "image": "https://i.postimg.cc/WzT3sfTt/Jazz-Legends-Live.jpg",
         "date": "2024-04-25",
         "description": "Experience the best of jazz with live performances from iconic legends of the genre.",
         "category": "Music Concert",
@@ -241,7 +241,7 @@
       {
         "_id": "639c733d992482e5f2834c25",
         "name": "Mountain Trail Marathon",
-        "image": "https://i.postimg.cc/RCFXVVv8/Mountain-Trail-Marathon.jpg",
+        "image": "https://i.postimg.cc/WzWXngHb/mararonmonta-a.jpg",
         "date": "2029-06-18",
         "description": "Challenge yourself with a scenic marathon through rugged mountain trails. Breathtaking views and tough competition await!",
         "category": "Race",
@@ -254,7 +254,7 @@
       {
         "_id": "639c733d992482e5f2834c27",
         "name": "Comic Book Exchange",
-        "image": "https://i.postimg.cc/Kz52YHvz/Comic-Book-Exchange.jpg",
+        "image": "https://i.postimg.cc/SR6MrMNY/Comic-Book-Exchange.jpg",
         "date": "2017-05-10",
         "description": "Bring your old comic books and trade them for new ones at this exciting book exchange event.",
         "category": "Book Exchange",
@@ -268,7 +268,7 @@
       {
         "_id": "639c733d992482e5f2834c29",
         "name": "Cinema Under the Stars",
-        "image": "https://i.postimg.cc/vmmb5zJh/Cinema-Under-the-Stars.jpg",
+        "image": "https://i.postimg.cc/N0d9LD9M/Cinema-Underthe-Stars.jpg",
         "date": "2024-08-14",
         "description": "Join us for a magical outdoor movie night under the stars. Classic films on a giant screen, with food trucks and live music.",
         "category": "Cinema",
@@ -281,7 +281,7 @@
       {
         "_id": "639c733d992482e5f2834c2b",
         "name": "Silent Film Night",
-        "image": "https://i.postimg.cc/qvNN78bT/Silent-Film-Night.jpg",
+        "image": "https://i.postimg.cc/8c9LcHYW/Silent-Film-Night.jpg",
         "date": "2030-03-20",
         "description": "A special screening of classic silent films, accompanied by a live orchestra playing the original scores.",
         "category": "Cinema",
@@ -294,7 +294,7 @@
       {
         "_id": "639c733d992482e5f2834c2d",
         "name": "Historical Museum Tour",
-        "image": "https://i.postimg.cc/ZnJ0bD45/Historical-Museum-Tour.jpg",
+        "image": "https://i.postimg.cc/xCRQ3jVT/Historical-Museum-Tour.jpg",
         "date": "2024-02-01",
         "description": "Take a guided tour through the history of ancient civilizations, featuring rare artifacts from Egypt, Greece, and Rome.",
         "category": "Museum",
@@ -307,7 +307,7 @@
       {
         "_id": "639c733d992482e5f2834c2f",
         "name": "Film Noir Marathon",
-        "image": "https://i.postimg.cc/0z0Mz0X0/Film-Noir-Marathon.jpg",
+        "image": "https://i.postimg.cc/6qv0Nq6B/Film-Noir-Marathon.jpg",
         "date": "2031-04-12",
         "description": "A full day of classic film noir screenings, featuring iconic detectives, femme fatales, and dark mysteries.",
         "category": "Cinema",

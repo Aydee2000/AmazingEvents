@@ -47,19 +47,24 @@ A continuación, se detalla la estructura de carpetas y archivos del proyecto:
 ```plaintext
 amazing-events/
 │
-├── assets/                  # Contiene los recursos como imágenes, estilos y scripts.
-│   ├── images/              # Imágenes usadas en la interfaz.
-│   ├── styles/              # Estilos CSS personalizados.
-│   ├── js/                  # Scripts JavaScript.
-│   │   └── data.json        # Datos de eventos (puede ser una API real en el futuro).
-│   └── pages/               # Páginas adicionales.
-│   │   ├── upcoming.html    # Página con los eventos próximos.
-│   │   ├── past.html        # Página con los eventos pasados.
-│   │   ├── details.html     # Página con los detalles de un evento específico.
-│   │   ├── stats.html       # Página de estadísticas.
-│   │   └── contact.html     # Página de contacto.
+├── assets/                  
+│   ├── images/              
+│   ├── styles/              
+│   ├── js/                  
+│   │   ├── data.json        # Datos de eventos (puede ser una API real en el futuro).
+│   │   ├── upcoming.js      # Script para la página de eventos próximos.
+│   │   ├── past.js          # Script para la página de eventos pasados.
+│   │   ├── details.js       # Script para la página de detalles de un evento.
+│   │   ├── stats.js         # Script para la página de estadísticas.
+│   │   ├── contact.js       # Script para la página de contacto.
+│   └── pages/               
+│       ├── upcoming.html    # Página con los eventos próximos.
+│       ├── past.html        # Página con los eventos pasados.
+│       ├── details.html     # Página con los detalles de un evento específico.
+│       ├── stats.html       # Página de estadísticas.
+│       └── contact.html     # Página de contacto.
 │
 ├── index.html               # Página principal donde se muestra el filtro y los eventos.
-├── index.js                 # Scripts de la pagina principal.
+├── index.js                 # Script de la página principal.
 ├── README.md                # Este archivo.
 

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./assets/styles/home.css">
+    <link rel="icon" href="./assets/images/favicon.png" type="image/x-icon">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <title>Amazing Events</title>
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <img src="./assets/images/amazing_brand.png" alt="logo" class="logo">
+            <nav class="menu">
+                <a class="active" href="#">Home</a>
+                <a href="./assets/pages/upcoming.html">Upcoming Events</a>
+                <a href="./assets/pages/past.html">Past Events</a>
+                <a href="./assets/pages/contact.html">Contact</a>
+                <a href="./assets/pages/stats.html">Stats</a>
+            </nav>
+        </div>
+    </header>
+    <main>
+
+        <section>
+            <div id="carouselExampleIndicators" class="carousel slide">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
+                        class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                        aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                        aria-label="Slide 3"></button>
+                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3"
+                        aria-label="Slide 4"></button>
+                </div>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="./assets/images/optional_banner_1.jpg" class="d-block w-100 carouselImg" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./assets/images/optional_banner_2.jpg" class="d-block w-100 carouselImg" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./assets/images/optional_banner_3.jpg" class="d-block w-100 carouselImg" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./assets/images/optional_banner_4.jpg" class="d-block w-100 carouselImg" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="./assets/images/optional_banner_5.jpg" class="d-block w-100 carouselImg" alt="...">
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+                    data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+                    data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </section>
+
+            <!-- Contenedor de los checkboxes de categoría y formulario de búsqueda -->
+            <section>
+                    <div id="categorias" class="navbar navbar-expand-lg bg-body-tertiary"></div>
+                    <input type="text" name="" id="buscador">
+                <div id="tarjetas" class="row gap-2 p-3 justify-content-center"></div>
+            </section>
+
+            <footer class="footer bg-dark text-light">
+                <div class="container">
+                    <div class="col-md-9 d-flex justify-content-start">
+                        <a href="#" class="me-3">
+                            <img src="./assets/images/facebook.png" alt="Facebook" class="img-fluid">
+                        </a>
+                        <a href="#" class="me-3">
+                            <img src="./assets/images/whatsapp.png" alt="Whatsapp" class="img-fluid">
+                        </a>
+                        <a href="#">
+                            <img src="./assets/images/instagram.png" alt="Instagram" class="img-fluid">
+                        </a>
+                    </div>
+                    <div class="col d-flex justify-content-end text-center ">
+                        <p>&copy; 2023 COHORT-03N</p>
+                    </div>
+                </div>
+            </footer>
+
+    </main>
+    
+    <script src="./index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
+        crossorigin="anonymous"></script>
+</body>
+</html>
